@@ -7,11 +7,11 @@ Tenho 22 anos e atualmente estou cursando Analise e desenvolvimento de sistemas-
 
 💬 Entre em contato comigo através desses links.
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:brunoavelinosc@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=brunoavelinosc@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/bruno-avelino-dick-607860242" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-avelino-dick-607860242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5548998268646" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5548998268646" alt="WhatsApp"/></a>
 </p>
 
